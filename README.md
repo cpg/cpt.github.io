@@ -1,2 +1,2 @@
 # cpt.github.io
-cpt site
+sources for the https://cpt.github.io site
